@@ -51,7 +51,7 @@ I am hopeful that we can revive this project once again, so I don't archive this
 
 #### Clone the project:
 ```bash
-$ git clone https://github.com/soroushchehresa/vue-soundcloud.git vue-soundcloud
+$ git clone https://github.com/followDev/SoundCloud-Vue.git
 ```
 
 #### Starting Development:
@@ -74,8 +74,3 @@ $ yarn && yarn build && yarn start
 
 $ npm i && npm run build && npm start
 ```
-
-## Support:
-<a href="https://www.patreon.com/soroushchehresa">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
